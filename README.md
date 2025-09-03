@@ -20,6 +20,23 @@ Les employés sont stockés dans un dictionnaire Python (clé = `id`).
 # Exécuter
 ```bash
 python3 main.py
+```
+# Exemple
+
+=== Menu ===
+1. Rechercher un employé (47899, 39119, 81774)
+2. Ajouter un nouvel employé
+3. Modifier un employé
+4. Supprimer un employé
+5. Quitter
+Choisissez une option (1-5): 2
+Nom de l'employé: Alice
+Numéro d'identification: 12345
+Département: IT
+Titre du poste: Développeuse
+Employé ajouté.
+
+
 
 
 
