@@ -17,5 +17,10 @@ Les employés sont stockés dans un dictionnaire Python (clé = `id`).
 - Saisie utilisateur (`input`), conditions, boucles
 - Organisation avec des fonctions (ajouter, rechercher, etc.)
 
+# Exécuter
+```bash
+python3 main.py
+
+
 
 
