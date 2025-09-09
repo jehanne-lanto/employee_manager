@@ -79,10 +79,3 @@ Employee added.
 Choose an option (1-5): 1
 Enter employee ID to search: 12345
 [12345] Alice — IT — Developer
-
-
-
-
-
-
-
