@@ -1,6 +1,6 @@
 # Système de gestion des employés (Python)
 
-Petit projet de cours : gestion d'employés avec un menu
+Petit projet de cours : gestion d'employés avec un menu.
 Les employés sont stockés dans un dictionnaire Python (clé = `id`).
 
 # Fonctionnalités
